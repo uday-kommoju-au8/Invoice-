@@ -28,7 +28,7 @@ const emptyState = {
   date: '',
   lineItems: [],
   notes: 'This invoice does not include service fees.',
-  terms: '',
+  terms: '1. Goods once sold cannot be taken back\n 2. No Warranty for Physical damages & Burnings',
 };
 
 function App() {

@@ -141,7 +141,7 @@ function buildLineItemsTable(params) {
         
       ],
     },
-    layout: 'lightHorizontalLines',
+    layout: ['lightHorizontalLines','lightVerticalLines'],
     margin: [0, 0, 0, 10],
   };
 }
